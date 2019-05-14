@@ -1,5 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Start the go server
+  ```go build```
+  
+  ```./server```
+  open a new tab and launch the react server && ```yarn start || npm start```
+  
 ## Available Scripts
 
 In the project directory, you can run:
